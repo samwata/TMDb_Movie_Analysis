@@ -2,12 +2,12 @@
  I will be analysing TMDb movie data This data set contains information on movies collected from The Movie Database (TMDb), including user ratings and revenue
  
  ### Question(s) for Analysis
-- Which genres are popular over time? 
-- Which movie(s) made the most profit?
-- Which movie(s) were the longest?
-- What is the relationship between movie duration and votes?
-- How does popularity affect votes and performances?
-- How has movie(s) costing increased over the years?
+1. Which genres are popular over time? 
+2. Which movie(s) made the most profit?
+3. Which movie(s) were the longest?
+4. What is the relationship between movie duration and votes?
+5. How does popularity affect votes and performances?
+6. How has movie(s) costing increased over the years?
 
 ### Data source Limitations
 - There was no clear definitions of the columns and what they were measuring. Some column headers like now we have **revenue** and **revenue_adj** where we dont know what revenue_adj measures and what is the difference between the two columns. This is also seen on **budget** column and **budget_adj** column
